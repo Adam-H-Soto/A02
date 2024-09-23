@@ -1,4 +1,5 @@
 # A02
+# Adam Soto IS117-005
 #
 # 1) Tutorial on setting up Git / Visual Studio Code / GitHub
 #        First you want to download Git for your OS (Operating System)
@@ -20,5 +21,17 @@
 #        Lastly, if you ever make any files on GitHub rather than VSCode, you can use the "git pull origin main" to update your local machine with those files
 #
 #        *NOTE* When creating/accessing files through GitBash (even on VSCode) make sure you use the command "cd /(your repo name)" to ensure you are on your repo locally
-
+#
 # 2) Definition of Terms associated with Git and GitHub
+#        a) Branch - 
+#        b) Clone - 
+#        c) Commit - 
+#        d) Fetch - 
+#        e) GIT - 
+#        f) Github - 
+#        g) Merge - 
+#        h) Merge Conflict - 
+#        i) Push - 
+#        j) Pull - 
+#        k) Remote - 
+#        l) Repository - 
