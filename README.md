@@ -35,3 +35,7 @@
 #        j) Pull - Pull is a command in Git to update the local repository with changes from a remote repository.
 #        k) Remote - Remote refers to the repositories hosted on GitHub rather than on one's local machine.
 #        l) Repository - A repository refers to the space where project files live, allowing for version control and collaboration.
+#
+# References
+# All information about how to set up Git, GitHub, and VSCode is paraphrased and sourced from Prof. Matt Toegel's presentations.
+# All definitions come from GitHub documentation and Google searches.
