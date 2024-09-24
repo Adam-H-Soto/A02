@@ -23,15 +23,15 @@
 #        *NOTE* When creating/accessing files through GitBash (even on VSCode) make sure you use the command "cd /(your repo name)" to ensure you are on your repo locally
 #
 # 2) Definition of Terms associated with Git and GitHub
-#        a) Branch - 
-#        b) Clone - 
-#        c) Commit - 
-#        d) Fetch - 
-#        e) GIT - 
-#        f) Github - 
-#        g) Merge - 
-#        h) Merge Conflict - 
-#        i) Push - 
-#        j) Pull - 
-#        k) Remote - 
-#        l) Repository - 
+#        a) Branch - A branch is a copy of the main version of a project, it does not affect the main version, allowing the user to edit and test things as they please until they want to merge it with the main version.
+#        b) Clone - To clone something on GitHub is to make a local copy of a repository on GitHub using the clone command.
+#        c) Commit - To commit something on GitHub is to record any changes to files in a branch using the commit command.
+#        d) Fetch - To fetch something on GitHub is to retrieve updates from a remote repository for your local repository without merging them.
+#        e) GIT - Git is a distributed version control system that allows developers to track changes in their codebase over time.
+#        f) GitHub - GitHub is a platform that hosts code repositories and utilizes Git for version control.
+#        g) Merge - To merge something on GitHub is to combine a branch of a version with another branch, typically into the "main" branch. Essentially to update that main branch with changes from the other branch.
+#        h) Merge Conflict - A merge conflict happens when two branches both have changes to similar aspects of a file and try to merge them making Git have an error because it does not know which version to keep.
+#        i) Push - Push is a command in Git that allows you to upload local repository content to a remote repository.
+#        j) Pull - Pull is a command in Git to update the local repository with changes from a remote repository.
+#        k) Remote - Remote refers to the repositories hosted on GitHub rather than on one's local machine.
+#        l) Repository - A repository refers to the space where project files live, allowing for version control and collaboration.
